@@ -1,0 +1,6 @@
+.env
+/vendor
+/writable/*
+!writable/index.html
+*.log
+*.cache
