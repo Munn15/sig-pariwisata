@@ -25,7 +25,7 @@
   </div>
 </section>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBpTjhRweOGfJ9OMW5oLLaPQC-md46Q428&libraries=places"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=yourkey"></script>
 <script>
   var map;
   var wisataLocations = <?= json_encode($wisata); ?>; // mendapatkan data lokasi wisata
