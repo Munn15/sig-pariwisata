@@ -19,6 +19,7 @@ Web Pariwisata menyediakan informasi lengkap mengenai tempat wisata, acara, dan 
 * Pesan
 * Artikel
 * Gallery
+* Peta Wisata
 
 ## Tampilan:
 ### Beranda
