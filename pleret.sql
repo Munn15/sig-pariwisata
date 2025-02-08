@@ -167,7 +167,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id_user`, `username`, `password`) VALUES
-(2, 'adminpleret', '$2y$10$6Yt2pU19VC7.mMIRIy/Nt.dTTyPS3FI66oHEYS92UgOqfeWLuk4Sy');
+(2, 'admin', '$2y$10$kauq6ylKMbVRAhz7ecID1uAQxgYJT26MYMmuSlg81RJv5Y8fxUE1m');
 
 -- --------------------------------------------------------
 
